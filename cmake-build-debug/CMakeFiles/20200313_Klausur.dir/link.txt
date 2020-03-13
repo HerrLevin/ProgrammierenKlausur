@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/20200313_Klausur.dir/main.c.o  -o 20200313_Klausur 

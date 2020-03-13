@@ -1,0 +1,4 @@
+gelb;violett;braun;gold
+rot;braun;gruen;
+weiss;schwarz;gelb;sibler
+violett;weiss;braun;gold
